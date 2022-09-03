@@ -107,6 +107,57 @@ e(pp-eval-expression)
 
 이렇게 하면 한줄 한줄 바로 확인가능
 
+<br>
+
+⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️
+
+<hr>
+
+# 다른 방법 4(난 이게 젤 편한것 같다. )
+
+```
+$ clisp hello.lisp
+```
+
+- 이렇게 그냥 쌩으로 실행하면 결과 하면 볼 수 있다. ㅋ
+
+hello.lisp 파일 예시
+
+```
+
+(defun name()
+  (princ "hello lisp "))
+
+(name)
+
+(terpri)
+
+(defun name1()
+  (princ "hell2 lisp \n"))
+
+(name1)
+
+```
+
+- 이걸 실행하면 밑에 화면이 나온다.
+  웃긴게 lisp에서 \n 이거 안된다 ㅋㅋㅋ
+
+<br>
+
+result :
+
+```
+$ clisp hello.lisp
+hello lisp
+hell2 lisp n
+```
+
+<br>
+
+⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️
+
+<hr>
+
 ## 너무 좋은 자료 모음
 
 [Lisp tutorial 최고 ](https://economiceco.tistory.com/14811)

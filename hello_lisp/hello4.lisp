@@ -2,12 +2,8 @@
 
 (+ 1 2 3)
 
-(defun name ()
-  (princ "hello "))
-
-(name)
+(defparameter d 10)
 
 
 (defun name (num)
-  printc
-  (+ 1 2 num))
+  (setf d(+ 1 (- num))))

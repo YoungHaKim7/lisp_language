@@ -1,5 +1,20 @@
 # lisp_language
 
+- macOS 기준 설치해줘야할 프로그램
+
+```
+$ brew install clisp sbcl
+```
+
+1. clisp
+2. sbcl
+
+2개 설치해야합니다.
+
+<br>
+
+<hr>
+
 ## lisp 기초
 
 - [Unleash The REPL With Sly](https://youtu.be/0DLdQ6yb7h8)

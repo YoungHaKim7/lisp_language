@@ -6,3 +6,6 @@
 
 # (190823)Lecture 1A: Overview and Introduction to Lisp | MIT OpenCourseWare
 - https://youtu.be/-J_xL4IGhJA?si=7KCu0T79wJEXQw8k
+
+# 5 Reasons I Love Emacs Orgmode | Gavin Freeborn
+- https://youtu.be/DEeStDz_imQ?si=0tWmcY1t96T7h-mQ

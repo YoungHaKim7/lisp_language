@@ -4,6 +4,19 @@
 - Common Lisp에 없는 `while`도 `defmacro`로 추가할 수 있지만, 함수로 흉내 내면 인자가 즉시 평가되어 `body`가 코드가 아니라 값이 되는 차이가 생김
 - Lisp 개발은 실행 중인 프로세스에 코드를 계속 평가하는 **REPL 주도 개발**에 가까…
 
+- (260713) **[양극성 LISP 프로그래머](<https://news.hada.io/topic?id=31319&utm_source=discord&utm_medium=bot&utm_campaign=5116>)**
+- Lisp는 기술적으로 뛰어나지만 주류가 되지 못한 **“뛰어난 실패작”** 이다.  
+- 저자는 그 이유를 언어 자체보다 Lisp에 끌린 사람들의 성향에서 찾는다.  
+- 이들은 탁월한 지성과 독창성을 지녔지만, 지루한 마무리·협업·타협·지속성을 견디지 못하는 경향이 있다.  
+- Lisp는 이들의 창의성을 증폭했지만, 동시에 그 약점까지 생태계에 확대해 놓았다.  
+  
+---  
+  
+뛰어난 실패자는 어떻게 만들어지는가  
+  
+- 오래 가르친 강사에게 특히 기억에 남는 학생은 아주 뛰어나거나 아주 형편없던 학생이다.  
+- 그런데 어떤 학생은…
+
 # (영상 모아보기) Common Lisp | Neil Munro (NMunro)
 - https://youtube.com/playlist?list=PLCpux10P7KDKPb4eI5b_qSnQaY1ePGKGK&si=VI_S2O1vrf1tEyuI
 
